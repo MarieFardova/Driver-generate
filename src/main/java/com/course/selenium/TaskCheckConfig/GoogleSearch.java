@@ -26,7 +26,7 @@ public class GoogleSearch {
         element.clear();
         element.sendKeys("Coderslab");
         element.submit();
-        // Thread.sleep(4000);
+        //Thread.sleep(4000);
         driver.quit();
     }
 }
