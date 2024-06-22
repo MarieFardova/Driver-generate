@@ -1,4 +1,4 @@
-package com.course.selenium.TaskCheckConfig;
+package com.course.selenium.TaskCheckConfig;//SADA TESTCASŮ
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -22,8 +22,4 @@ public class BingSearch {
         element.submit();
         driver.quit();
     }
-
-    
-
-
 }
