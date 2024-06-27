@@ -87,5 +87,20 @@ public class SearchElementsXpath {
 
     }
 
-
 }
+/*
+SEARCH ELEMENTS:
+(button) Sign In
+(text field) Email address
+After identifying the elements, click the Sign In button and enter any email address in the Email address field.
+Start creating a new user by clicking the Create an account button
+search for all required text fields using xpath locators, and fill them with any data:
+First Name
+Last Name
+Email
+Password
+Click the Register button, which you will find using the By.xpath locator.
+Identify the following fields using the By.cssSelector locator:
+MY PERSONAL INFORMATION
+MY ADDRESSES
+ */
